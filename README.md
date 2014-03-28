@@ -4,6 +4,25 @@ Collection of popular services icons, based and inspired by the icons used insid
 
 ![](https://raw.githubusercontent.com/likeastore/likeastore-social-icons/master/all-preview-green.png)
 
+## Usage
+
+You are free to choose the way
+
+## List of included services
+
+Currently icons pack contains icons of such services:
+
+- [Likeastore](http://likeastore.com)
+- [Facebook](http://facebook.com)
+- [Twitter](http://twitter.com)
+- [Youtube](http://youtube.com)
+- [Vimeo](http://vimeo.com)
+- [Stackoverflow](http://stackoverflow.com)
+- [Gihtub](http://github.com)
+- [Bitbucket](http://bitbucket.com)
+- [Pocket](http://pocket.com)
+- [Tumblr](http://tumblr.com)
+
 ## Contribution
 
 If you have a question or want to suggest service to be included into this pack, please raise an [issue](https://github.com/likeastore/likeastore-social-icons/issues).
