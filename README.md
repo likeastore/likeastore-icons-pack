@@ -6,7 +6,11 @@ Collection of popular services icons, based and inspired by the icons used insid
 
 ## Usage
 
-You are free to choose the way
+You are free to download all icons manually or you can install them as bower package:
+
+```bash
+bower install likeastore-icons-pack
+```
 
 ## List of included services
 
@@ -22,6 +26,13 @@ Currently icons pack contains icons of such services:
 - [Bitbucket](http://bitbucket.com)
 - [Pocket](http://pocket.com)
 - [Tumblr](http://tumblr.com)
+- [Dribbble](http://dribbble.com)
+- [Behance](http://behance.com)
+- [Instagram](http://instagram.com)
+- [Flickr](http://flickr.rom)
+- [Pinterest](http://pinterest.com)
+- [Instagram](http://instagram.com)
+- [Spotify](http://spotify.com)
 
 ## Contribution
 
