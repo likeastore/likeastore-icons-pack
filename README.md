@@ -1,9 +1,12 @@
 # Social icons pack
 
-Collection of popular services social icons.
+Collection of popular services icons, based and inspired by the icons used inside Likeastore app.
 
 ![](https://raw.githubusercontent.com/likeastore/likeastore-social-icons/master/all-preview-green.png)
 
+## Contribution
+
+If you have a question or want to suggest service to be included into this pack, please raise an [issue](https://github.com/likeastore/likeastore-social-icons/issues).
 
 ## Licence (MIT)
 
