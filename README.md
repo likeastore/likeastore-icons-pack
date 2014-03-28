@@ -1,6 +1,6 @@
 # Social icons pack
 
-Collection of icons for popular services, based and inspired by the icons used inside [Likeastore app](https://app.likeastore.com).
+Free collection of icons for popular services, based and inspired by the icons used inside [Likeastore app](https://app.likeastore.com).
 
 ![](https://raw.githubusercontent.com/likeastore/likeastore-social-icons/master/all-preview-green.png)
 
