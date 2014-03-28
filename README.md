@@ -1,5 +1,9 @@
 # Social icons pack
 
+Collection of popular services social icons.
+
+![](https://raw.githubusercontent.com/likeastore/likeastore-social-icons/master/all-preview-green.png)
+
 
 ## Licence (MIT)
 
