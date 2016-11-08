@@ -22,7 +22,7 @@ Currently icons pack contains icons of such services:
 - [Youtube](http://youtube.com)
 - [Vimeo](http://vimeo.com)
 - [Stackoverflow](http://stackoverflow.com)
-- [Gihtub](http://github.com)
+- [Github](http://github.com)
 - [Bitbucket](http://bitbucket.com)
 - [Pocket](http://pocket.com)
 - [Tumblr](http://tumblr.com)
